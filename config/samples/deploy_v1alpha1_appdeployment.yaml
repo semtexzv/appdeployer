@@ -1,0 +1,7 @@
+apiVersion: deploy.semtexzv.com/v1alpha1
+kind: AppDeployment
+metadata:
+  name: appdeployment-sample
+spec:
+  # Add fields here
+  version: v0.1.0

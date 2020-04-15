@@ -1,0 +1,7 @@
+domain: semtexzv.com
+repo: semtexzv.com/appdeployer
+resources:
+- group: deploy
+  kind: AppDeployment
+  version: v1alpha1
+version: "2"
